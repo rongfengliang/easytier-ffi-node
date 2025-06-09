@@ -1,0 +1,6 @@
+node_modules
+lib/libeasytier_ffi.dylib
+.DS_Store
+*.log
+app.yaml
+.vscode

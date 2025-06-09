@@ -1,0 +1,14 @@
+{
+  "name": "easytier-ffi-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ffi-napi": "^4.0.3",
+    "ref-napi": "^3.0.3",
+    "ref-struct-di": "^1.1.1"
+  },
+  "scripts": {
+    "s": "sudo node app.js"
+  }
+}
