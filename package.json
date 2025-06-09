@@ -1,7 +1,7 @@
 {
   "name": "easytier-ffi-api",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "easytier.js",
   "license": "MIT",
   "dependencies": {
     "ffi-napi": "^4.0.3",
