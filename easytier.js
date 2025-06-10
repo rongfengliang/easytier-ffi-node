@@ -36,5 +36,7 @@ const libeasytier = ffi.Library(libPath, {
 });
 
 module.exports = {
+  KeyValuePair,
+  KeyValuePairPtr,
   ...libeasytier,
 };
